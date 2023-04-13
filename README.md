@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ebenezer</h1>
-<h3 align="center">A skilled Software Engineer, Full Stack Web Developer, and Cloud DevOps Engineer with a passion for all things tech. With extensive experience in these fields, I am committed to delivering cutting-edge solutions that drive business success and enhance user experiences.</h3>
+<h3 align="center">A skilled Software Engineer, Full Stack Web Developer, and Cloud DevOps Engineer <br /> with a passion for all things tech. <br /> With extensive experience in these fields, I am committed to delivering cutting-edge solutions that drive business success and enhance user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebengithub&label=Profile%20views&color=0e75b6&style=flat" alt="ebengithub" /> </p>
 
