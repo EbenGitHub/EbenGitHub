@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abenezereshetie/](https://www.linkedin.com/in/abenezereshetie/)
 
-- ⚡ Fun fact **I have a bit of a crush on the Radix algorithm. I mean, what's not to love about a sorting method that's both lightning-fast and super satisfying to watch in action?**
+- ⚡ Fun fact **I have a bit of a crush on the Radix algorithm. It might not win the speed race, but watching it work is oddly satisfying!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
